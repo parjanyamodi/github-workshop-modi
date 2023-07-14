@@ -2,4 +2,4 @@
 
 Adding the future tasks
 
-Adding task 1
+Completed task 1
